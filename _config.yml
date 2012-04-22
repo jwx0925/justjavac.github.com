@@ -12,15 +12,15 @@ paginate: 5
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title: justjavac的博客
+title: /Null/
 tagline: 专注最时髦的web开发技术
 
 author:
-  name: justjavac
-  email: justjavac@gmail.com
-  github: justjavac
-  twitter: justjavac
-  feedburner: justjavac
+  name: Jin Wenxiang
+  email: jwx0925@gmail.com
+  github: jwx0925
+  twitter: jwx0925
+  feedburner: jwx0925
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -30,7 +30,7 @@ author:
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url: http://justjavac.com
+production_url: http://isnull.me
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
